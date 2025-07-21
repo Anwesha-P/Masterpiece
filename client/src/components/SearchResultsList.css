@@ -1,0 +1,13 @@
+.results-list {
+    width: 100%;
+    /* align-items: center;
+    justify-content: center; */
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    margin-top: 1rem;
+    max-height: 300px;
+    overflow-y: scroll;
+    color: black;
+}

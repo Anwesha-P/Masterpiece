@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "fNzRVyxB1+8rkQWfSSMfkuFEg0VJtpaqBLp+CroW77kHkIFi4rXwbkBLi0aiABLUE/fvE7jL7L2GAZrY8gr++A==",
+  "success": true,
+  "projectFilePath": "/mnt/c/Users/anwes/Masterpiece/AuditExporter/AuditExporter.csproj",
+  "expectedPackageFiles": [
+    "/home/anwes/.nuget/packages/microsoft.extensions.configuration/9.0.7/microsoft.extensions.configuration.9.0.7.nupkg.sha512",
+    "/home/anwes/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.7/microsoft.extensions.configuration.abstractions.9.0.7.nupkg.sha512",
+    "/home/anwes/.nuget/packages/microsoft.extensions.configuration.environmentvariables/9.0.7/microsoft.extensions.configuration.environmentvariables.9.0.7.nupkg.sha512",
+    "/home/anwes/.nuget/packages/microsoft.extensions.configuration.fileextensions/9.0.7/microsoft.extensions.configuration.fileextensions.9.0.7.nupkg.sha512",
+    "/home/anwes/.nuget/packages/microsoft.extensions.configuration.json/9.0.7/microsoft.extensions.configuration.json.9.0.7.nupkg.sha512",
+    "/home/anwes/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/home/anwes/.nuget/packages/microsoft.extensions.fileproviders.abstractions/9.0.7/microsoft.extensions.fileproviders.abstractions.9.0.7.nupkg.sha512",
+    "/home/anwes/.nuget/packages/microsoft.extensions.fileproviders.physical/9.0.7/microsoft.extensions.fileproviders.physical.9.0.7.nupkg.sha512",
+    "/home/anwes/.nuget/packages/microsoft.extensions.filesystemglobbing/9.0.7/microsoft.extensions.filesystemglobbing.9.0.7.nupkg.sha512",
+    "/home/anwes/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/home/anwes/.nuget/packages/microsoft.extensions.primitives/9.0.7/microsoft.extensions.primitives.9.0.7.nupkg.sha512",
+    "/home/anwes/.nuget/packages/npgsql/9.0.3/npgsql.9.0.3.nupkg.sha512",
+    "/home/anwes/.nuget/packages/system.io.pipelines/9.0.7/system.io.pipelines.9.0.7.nupkg.sha512",
+    "/home/anwes/.nuget/packages/system.text.encodings.web/9.0.7/system.text.encodings.web.9.0.7.nupkg.sha512",
+    "/home/anwes/.nuget/packages/system.text.json/9.0.7/system.text.json.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
