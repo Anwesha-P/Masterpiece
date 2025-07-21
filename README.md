@@ -2,7 +2,7 @@
 
 ## Project Setup
 
-This project includes a backend Node.js API connected to a PostgreSQL database, and a React frontend. I set up my Database in Supabase
+- This project includes a backend Node.js API connected to a PostgreSQL database, and a React frontend. I set up my Database in Supabase
 ---
 
 ## Database Setup with Supabase
@@ -55,19 +55,23 @@ To set up the PostgreSQL database on Supabase and import the schema:
 - appsettings.json file holds the key to the supabase database
 - enter you password to the [YOUR-PASSWORD] area.
 - Run these commands:
-   - sudo snap install dotnet --classic
-   - dotnet add package Npgsql
-   - dotnet add package Microsoft.Extensions.Configuration
-   - dotnet add package Microsoft.Extensions.Configuration.Json
-   - dotnet run
-   - dotnet build
+  ```bash
+     sudo snap install dotnet --classic
+     dotnet add package Npgsql
+     dotnet add package Microsoft.Extensions.Configuration
+     dotnet add package Microsoft.Extensions.Configuration.Json
+     dotnet run
+     dotnet build
+  ```
 - A csv file for stores should have been created
 
 ## React App setup
 - npm install to download all dependencies
 - Run these:
-   - npm run build
-   - npx vite
+   ```bash
+      npm run build
+      npx vite
+   ```
 - The react app will run on `http://localhost:5173/`
 ## Running the Application
 
