@@ -2,9 +2,7 @@
 
 ## Project Setup
 
-This project includes a backend Node.js API connected to a PostgreSQL database, and a React frontend.
-
-I set up my Database in Supabase
+This project includes a backend Node.js API connected to a PostgreSQL database, and a React frontend. I set up my Database in Supabase
 ---
 
 ## Database Setup with Supabase
@@ -73,7 +71,7 @@ To set up the PostgreSQL database on Supabase and import the schema:
 - The react app will run on `http://localhost:5173/`
 ## Running the Application
 
-- Backend API will run on `http://localhost:3009` (default port)  
+- Backend API will run on `http://localhost:3009` (default port). /api-docs endpoint will lead to the swagger documentation  
 - Use the provided API endpoints to fetch stores, audit logs, and submit audit data
 
 ---
@@ -102,5 +100,6 @@ PORT and DATABASE_URL
 - Store Selection is by one store each -- add it to include a region so regional managers can look at the entire region's audit history
 - Backup the database
 - Create a docker to containerize the system
-- CI/CD 
+- CI/CD
+- make quantity component better
 
